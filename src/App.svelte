@@ -43,5 +43,9 @@
   :global([data-tooltip]) {
     display: inline-block;
     position: relative;
+
+    /* Just for demo */
+    font-weight: bold;
+    color: teal;
   }
 </style>
